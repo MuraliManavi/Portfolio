@@ -4,10 +4,9 @@ import {
   FaExternalLinkAlt,
 } from "react-icons/fa";
 
-import pearson from "../assets/certificates/pearson.jpg";
-import google from "../assets/certificates/google.jpg";
-import forge from "../assets/certificates/forge.jpg";
-
+import pearson from "../assets/certificates/pearson.jpeg";
+import google from "../assets/certificates/google.jpeg";
+import forge from "../assets/certificates/forge.jpeg";
 const certificates = [
   {
     title: "Pearson MePro Level 10",
